@@ -6,8 +6,6 @@
 	<packaging>war</packaging>
 	<version>0.0.5</version>
 	<name>my-app</name>
-	
-	<!-- Demo on Github Webhooks-->
 
 	<url>http://maven.apache.org</url>
 
@@ -17,8 +15,7 @@
 		    <artifactId>poi</artifactId>
 		    <version>3.7</version>
 		</dependency>
-
-		<!==test web hook new==>
+		
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
